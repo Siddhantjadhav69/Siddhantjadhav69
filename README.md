@@ -42,29 +42,6 @@ REPO       : github.com/Siddhantjadhav69
 
 ---
 
-## `> neofetch --stats`
-
-<div align="center">
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siddhantjadhav69&theme=github_dark)](https://github.com/Siddhantjadhav69)
-
-</div>
-
-<div align="center">
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Siddhantjadhav69&theme=github_dark)](https://github.com/Siddhantjadhav69)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Siddhantjadhav69&theme=github_dark)](https://github.com/Siddhantjadhav69)
-
-</div>
-
-<div align="center">
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siddhantjadhav69&theme=github_dark)](https://github.com/Siddhantjadhav69)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Siddhantjadhav69&theme=github_dark&utcOffset=5.5)](https://github.com/Siddhantjadhav69)
-
-</div>
-
----
 
 ## `> cat /proc/skills`
 
