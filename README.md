@@ -85,28 +85,6 @@ REPO       : github.com/Siddhantjadhav69
 
 ---
 
-## `> git log --oneline --graph`
-
-```
-* 🤖  Building LangChain AI agents with memory & tool use
-* 🧠  RAG pipelines — Pinecone + FAISS + transformer embeddings
-* 📡  ApoChat — decentralized E2E encrypted P2P messenger
-* 🚀  Deploying ML models to AWS, GCP, Render
-* 🌊  Smart India Hackathon — shipped full AI-backed marine project
-* 🔬  Fine-tuning transformers for NLP classification tasks
-* ✍️   One-word collaborative story engine, because why not
-```
-
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════╗
-║  "I prefer building things that speak for            ║
-║   themselves." — @Siddhantjadhav69                   ║
-╚══════════════════════════════════════════════════════╝
-```
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Siddhantjadhav69&color=00ff41&style=flat-square&label=VISITORS)
 
