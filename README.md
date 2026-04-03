@@ -31,6 +31,7 @@
 
 
 
-
-![dream-chaser-white 3840x2160](https://github.com/user-attachments/assets/865e0adc-bf0d-4452-a177-931e4d4a4190)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Siddhantjadhav69/Siddhantjadhav69/main/dream-chaser-white.1920x1080.gif" width="900"/>
+</p>
 
