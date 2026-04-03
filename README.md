@@ -32,6 +32,6 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Siddhantjadhav69/Siddhantjadhav69/main/dream-chaser-white.1920x1080.gif" width="900"/>
+  <img src="https://raw.githubusercontent.com/Siddhantjadhav69/Siddhantjadhav69/main/dream-chaser-white.1920x1080.gif" width="400"/>
 </p>
 
