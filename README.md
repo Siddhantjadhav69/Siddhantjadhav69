@@ -26,8 +26,11 @@
 ---
 <!-- <video src="https://github.com/user-attachments/assets/fdefcb37-fa82-45f8-8dcb-c65c0cb360af" autoplay loop muted playsinline width="100%"></video> -->
 
-<video src="https://github.com/user-attachments/assets/fdefcb37-fa82-45f8-8dcb-c65c0cb360af" autoplay="autoplay" loop="loop" muted="muted" playsinline="playsinline" controlsList="nodownload" width="100%"></video>
+<!-- <video src="https://github.com/user-attachments/assets/fdefcb37-fa82-45f8-8dcb-c65c0cb360af" autoplay="autoplay" loop="loop" muted="muted" playsinline="playsinline" controlsList="nodownload" width="100%"></video> -->
 
 
 
+
+
+![dream-chaser-white 3840x2160](https://github.com/user-attachments/assets/865e0adc-bf0d-4452-a177-931e4d4a4190)
 
