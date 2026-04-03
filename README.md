@@ -29,9 +29,3 @@
 <!-- <video src="https://github.com/user-attachments/assets/fdefcb37-fa82-45f8-8dcb-c65c0cb360af" autoplay="autoplay" loop="loop" muted="muted" playsinline="playsinline" controlsList="nodownload" width="100%"></video> -->
 
 
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Siddhantjadhav69/Siddhantjadhav69/main/dream-chaser-white.1920x1080.gif" width="400"/>
-</p>
-
