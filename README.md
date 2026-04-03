@@ -25,7 +25,7 @@
 
 ---
 
-<video src="(https://github.com/user-attachments/assets/fdefcb37-fa82-45f8-8dcb-c65c0cb360af)" autoplay loop muted playsinline width="100%"></video>
+<video src=(https://github.com/user-attachments/assets/fdefcb37-fa82-45f8-8dcb-c65c0cb360af) autoplay loop muted playsinline width="100%"></video>
 
 
 
